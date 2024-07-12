@@ -17,7 +17,7 @@ Then, build and run the project using the following docker-compose command:
 ```
 docker-compose up --build
 ```
-Then, open http://localhost:3000 with your browser to see the result
+Then, open http://localhost:4001 with your browser to see the result
 
 
 
