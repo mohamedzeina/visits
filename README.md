@@ -1,6 +1,5 @@
 ## Description
-Visits is a simple multi-container application made with Docker. It tracks the number of visits made to a node.js web application. 
-One container is used to run the redis server that stores the number of visits while the other container runs the node.js web application.
+Visits is a multi-container Docker application that tracks the number of visits to a Node.js web application. One container runs the Redis server to store the visit count, while the other container hosts the Node.js web application
 
 
 ## How To Build & Run Locally
